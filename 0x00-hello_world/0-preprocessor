@@ -1,1 +1,1 @@
-cpp $CFILE -o c
+gcc $CFILE -E -o c
