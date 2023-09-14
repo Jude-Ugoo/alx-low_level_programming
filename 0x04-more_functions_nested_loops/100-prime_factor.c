@@ -13,7 +13,7 @@ int main(void)
 	long int largestPrime = -1;
 	long int divisor = 2;
 
-	while (number > 1) 
+	while (number > 1)
 	{
 		if (number % divisor == 0)
 		{
