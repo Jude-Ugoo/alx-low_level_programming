@@ -1,1 +1,1 @@
-more on C pointers, arrays and strings
+C intro to low level programming
