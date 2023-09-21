@@ -1,1 +1,1 @@
-INTRO TO ALX LOW LEVEL PROGRAMMING
+more on C pointers, arrays and strings
